@@ -1,0 +1,44 @@
+{
+  "dicas_diarias": [
+    {
+      "id": 1,
+      "dica": "Evite usar plástico descartável. Opte por sacolas reutilizáveis, garrafas de água e recipientes duráveis."
+    },
+    {
+      "id": 2,
+      "dica": "Desligue os aparelhos eletrônicos da tomada quando não estiverem em uso. Isso reduz o consumo de energia e prolonga a vida útil dos dispositivos."
+    },
+    {
+      "id": 3,
+      "dica": "Escolha produtos de limpeza ecológicos e biodegradáveis. Isso ajuda a reduzir a poluição das águas e protege a fauna aquática."
+    },
+    {
+      "id": 4,
+      "dica": "Reduza o consumo de carne e opte por mais refeições à base de vegetais, que têm uma pegada de carbono menor."
+    },
+    {
+      "id": 5,
+      "dica": "Plante uma árvore ou cuide de plantas em casa. Isso contribui para a produção de oxigênio e melhora a qualidade do ar."
+    },
+    {
+      "id": 6,
+      "dica": "Use transporte público, bicicleta ou caminhe sempre que possível, reduzindo a emissão de gases de efeito estufa."
+    },
+    {
+      "id": 7,
+      "dica": "Reutilize e recicle sempre que possível. Separe resíduos recicláveis e verifique pontos de coleta em sua cidade."
+    },
+    {
+      "id": 8,
+      "dica": "Compre de produtores locais e reduza a quantidade de embalagens dos produtos que consome."
+    },
+    {
+      "id": 9,
+      "dica": "Reduza o tempo no chuveiro e aproveite ao máximo a água de chuva para regar plantas ou lavar calçadas."
+    },
+    {
+      "id": 10,
+      "dica": "Opte por lâmpadas LED, que consomem menos energia e têm maior durabilidade que lâmpadas incandescentes."
+    }
+  ]
+}
